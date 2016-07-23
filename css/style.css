@@ -6,3 +6,13 @@ body {
   -o-background-size: cover;
   -webkit-background-size: cover;
 }
+div, h1, h2, h3 {
+
+	font-family: 'Suez One', serif;
+	    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000
+}
